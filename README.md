@@ -4,5 +4,5 @@ Simple CRUD hecho en [Angular CLI](https://github.com/angular/angular-cli) versi
 Aplicacion simplemento realiza un push para visualizar en la mismas intefaz del usuario
 
 ## Intefaz
-
-![scaffolding](https://github.com/luismartinezo/CRUD-ANGULAR7-N2/blob/master/src/assets/images/display.png?raw=true
+![](../../../../assets/img/display.png?raw=true)
+![display](https://github.com/luismartinezo/CRUD-ANGULAR7-N2/blob/master/src/assets/images/display.png?raw=true
