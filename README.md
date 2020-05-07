@@ -5,4 +5,4 @@ Aplicacion simplemento realiza un push para visualizar en la mismas intefaz del 
 
 ## Intefaz
 
-![scaffolding](https://github.com/luismartinezo/CRUD-ANGULAR7-N2/master/src/img/display.png?raw=true
+![scaffolding](https://github.com/luismartinezo/CRUD-ANGULAR7-N2/tree/master/src/assets/images/display.png?raw=true
