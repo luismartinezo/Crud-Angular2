@@ -5,4 +5,4 @@ Aplicacion simplemento realiza un push para visualizar en la mismas intefaz del 
 
 ## intefaz
 
-![](../../../assets/img/display.png?raw=true)
+![](../assets/img/display.png?raw=true)
